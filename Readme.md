@@ -14,9 +14,6 @@ This project performs sentiment analysis on Amazon product reviews, classifying 
 ├── data/                         # Dataset
 │   └── amazon_reviews.csv         # Amazon product reviews dataset
 │
-├── notebooks/                    # Jupyter Notebooks (Optional)
-│   └── sentiment_analysis.ipynb   # Interactive notebook for the analysis
-│
 ├── scripts/                      # Python Scripts
 │   ├── data_preprocessing.py      # Data loading & preprocessing
 │   ├── model_training.py          # Model training & evaluation
